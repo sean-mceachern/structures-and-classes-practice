@@ -13,9 +13,11 @@ files:
     basics about reading in files, updating files, and output file streams. this introduces the concepts of OOP through classes and methods
     
 2. classes:
-    classesIntroduction.cpp: \n
+    classesIntroduction.cpp:
+    
         -intro to structures, classses, objects, mutators, and public vs. private variables.
     constructors.cpp: \n
+    
         -intro to using constructors
     
     
