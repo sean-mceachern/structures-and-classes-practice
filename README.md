@@ -18,7 +18,4 @@ Folders:
     b. constructors.cpp:\
         -intro to using constructors\
     c. ADT.cpp\
-        -intro to Abstract Data Types\
-    
-    
-    
+        -intro to Abstract Data Types
