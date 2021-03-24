@@ -14,11 +14,9 @@ files:
     
 2. classes:
     classesIntroduction.cpp:
-    
-        -intro to structures, classses, objects, mutators, and public vs. private variables.
-    constructors.cpp: \n
-    
-        -intro to using constructors
+    -intro to structures, classses, objects, mutators, and public vs. private variables.
+    constructors.cpp:
+    -intro to using constructors
     
     
     
