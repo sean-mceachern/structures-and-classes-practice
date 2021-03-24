@@ -17,7 +17,7 @@ Folders:
         -intro to structures, classses, objects, mutators, and public vs. private variables.\
     b. constructors.cpp:\
         -intro to using constructors\
-    c. ADT.cpp
+    c. ADT.cpp\
         -intro to Abstract Data Types\
     
     
