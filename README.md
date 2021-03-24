@@ -15,9 +15,9 @@ Folders:
 2. classes:\
     Files:\
         a. classesIntroduction.cpp:\
-            -intro to structures, classses, objects, mutators, and public vs. private variables.
+              -intro to structures, classses, objects, mutators, and public vs. private variables.\
         b. constructors.cpp:\
-            -intro to using constructors
+              -intro to using constructors
     
     
     
